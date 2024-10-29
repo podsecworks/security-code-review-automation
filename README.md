@@ -59,18 +59,18 @@ cd security-code-review-automation
 
 ## **Usage Instructions**
 
--1.Install required dependencies.
--2.Configure the tool according to your project specifications.
--3.Run the tool and analyze the results.
+1.Install required dependencies.
+2.Configure the tool according to your project specifications.
+3.Run the tool and analyze the results.
 
 ## **Testing**
-- <placeholder>
+<placeholder>
 
 ## **CI/CD Integration**
-- Integrating this tool into your CI/CD pipeline can provide continuous security reviews. Please refer to the documentation for detailed instructions on setup.
+Integrating this tool into your CI/CD pipeline can provide continuous security reviews. Please refer to the documentation for detailed instructions on setup.
 
-## Contributing
-- Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
+## **Contributing**
+Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to contribute to this project.
 
-License
+## **License**
 This project is licensed under the Apache-2.0 license - see the LICENSE file for details.
